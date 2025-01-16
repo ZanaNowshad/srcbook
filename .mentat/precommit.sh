@@ -1,4 +1,4 @@
 pnpm format
 pnpm lint
 pnpm check-format
-pnpm test
+pnpm test -- --run
